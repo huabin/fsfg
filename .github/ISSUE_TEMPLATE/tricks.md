@@ -11,7 +11,6 @@ Detailed description according to the following.
 
 **What is this trick for?**
 
-
 **Detailed trick description**
 
 **Additional context**
